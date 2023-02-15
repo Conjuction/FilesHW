@@ -1,4 +1,4 @@
-package Json;
+package json;
 
 public class PersonalData {
     public String firstName;

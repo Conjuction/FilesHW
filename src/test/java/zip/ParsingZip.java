@@ -1,4 +1,4 @@
-package Zip;
+package zip;
 
 import com.codeborne.pdftest.PDF;
 import com.codeborne.xlstest.XLS;
